@@ -1,7 +1,7 @@
 The Odin Project 1st Project: Recipes
 
 This is the first TOP project.
-The objective it's to practice all of the HTML knowledge I have aquired so far, building a basica recipe website.
+The objective it's to practice all of the HTML knowledge I have aquired so far, building a basic recipe website.
 
 With this project I was able to practive how to:
 
