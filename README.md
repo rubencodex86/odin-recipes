@@ -9,3 +9,4 @@ With this project I was able to practive how to:
 - Practice some terminal commands: like create dirs and files;
 - I was able to review the "usual boilerplate" and use tags and elements;
 - Practice git commands: git add / commit / push / status / log;
+- Write links. Relative links;
