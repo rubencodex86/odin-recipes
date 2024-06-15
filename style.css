@@ -6,7 +6,9 @@
     color: #dcdcdc;
 }
 
-li.menu-link {
+li.menu-link,
+.sub-title,
+.highlight {
     font-family: "Lucida Console", "Monaco", monospace;
     font-size: 18px;
     color: #282828;
@@ -15,3 +17,29 @@ li.menu-link {
 .menu-link.odd {
     background-color: lightgrey;
 }
+
+#title.recipe {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+#hero-img {
+    width: 600px;
+    height: 400px;
+}
+
+h4.sub-title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.plain-text,
+.list {
+    font-family: "Georgia", "Garamond", serif;
+    font-size: 16px;
+}
+
+h3.highlight {
+    text-decoration: underline;
+}
+
