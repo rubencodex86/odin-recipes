@@ -43,3 +43,48 @@ h3.highlight {
     text-decoration: underline;
 }
 
+/*Block and Box Model exercices*/
+
+* {
+    margin: 0 0;
+    padding:0 0;
+}
+
+.wrapper {
+    border: 1px solid black;
+}
+
+#title {
+    padding: 33px 15px 30px 15px;
+}
+
+li.menu-link {
+    padding: 25px 33px 25px 33px;
+}
+
+#hero-img {
+    margin-left: 33px;
+    margin-top: 50px;
+}
+
+.text-wrapper {
+    margin-top: 50px;
+    display: inline-block;
+    padding-left: 33px;
+    padding-top: 20px;
+    padding-right: 33px;
+    padding-bottom: 20px;
+    width: 800px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+
+}
+
+.sub-title{
+    margin-bottom: 25px;
+}
+
+h3.highlight {
+    margin-top: 33px;
+}
